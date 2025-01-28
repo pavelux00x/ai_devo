@@ -1,4 +1,4 @@
-MODEL: 
+MODEL: llava 
 
 
 ollama ps
