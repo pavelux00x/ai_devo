@@ -21,5 +21,6 @@ stream = chat(
     stream=True,
 )
 
-for chunk in stream:
-    print(chunk['message']['content'], end='', flush=True)
+with open("result.txt", "w") as output_file:
+    for chunk in stream:
+        output_file.write(chunk['message']['content'])

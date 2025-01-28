@@ -1,16 +1,23 @@
  ```json
 
 {
-  "Name": "MARTIN",
-  "Gender": "Female",
-  "Date of Birth": "26.09.1980",
-  "Photo": "A photograph is present at the top left of the image",
-  "Nickname": "MARIE GUEZALLE, MADY GUEZALLE",
-  "Nationality": "FRENCH",
-  "Date Issued": "10.11.2022",
-  "Expiration Date": "10.11.2023",
-  "Place of Issue": "REPUBLIQUE FRANÇAISE",
-  "Signature": "A signature is present at the bottom right",
-  "ID Number": "X48T69W"
+  "CARD_NUMBER": "X4R5PPW",
+  "BANQUE": "",
+  "CARTE NATIONALE D'IDENTITE": "",
+  "PRENOM": "MARTIN",
+  "NOEMS": "MARYLIS GABRIELLE",
+  "DATE DE NAissance": "10/03/1975",
+  "LIEU D'ETAT CIVIL": "",
+  "NUMERO DE LA CARTE D'IDENTITE" : "16748298",
+  "DATES": {
+    "Emission": "13/03/2023",
+    "Validite": "15/03/2025"
+  },
+  "SEXE": "",
+  "COMMUNE": "MAKLIS, GABRIELLE",
+  "DEPARTEMENT": "48",
+  "ANNEE DE L'ETAT CIVIL": "",
+  "CODIGUE POSTAL": "12345",
+  "NUMERO DU PASSANT": ""
 }
-``` %  
+``` 
